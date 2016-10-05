@@ -1,0 +1,72 @@
+# Archives
+*.gz
+*.bz2
+*.tgz
+*.tbz2
+*.Z
+
+# Temporary files
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+*.swp
+*.swo
+
+# C/C++
+*.slo
+*.lo
+*.o
+*.so
+*.so.*
+*.dylib
+*.lai
+*.la
+*.a
+*.lib
+*.dll
+*.exe
+*.out
+*.app
+
+# CMake
+install_manifest.txt
+CMakeCache.txt
+CMakeFiles
+cmake_install.cmake
+
+# Python
+*.py[cod]
+.installed.cfg
+__pycache__/
+*/__cache__/
+*/__cache__
+*/__pycache__/
+pip-log.txt
+.coverage
+.tox
+nosetests.xml
+
+# Ruby
+*.rbc
+*.sassc
+.sass-cache
+capybara-*.html
+.rspec
+.rvmrc
+/.bundle
+**.orig
+rerun.txt
+pickle-email-*.html
+*.gem
+*.rbc
+.bundle
+.config
+InstalledFiles
+spec/reports
+test/tmp
+test/version_tmp
+.yardoc
+_yardoc
